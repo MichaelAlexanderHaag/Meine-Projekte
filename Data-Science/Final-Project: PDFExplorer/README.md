@@ -22,7 +22,7 @@ https://youtu.be/qY-LfwcBmZI
 
 
 ## Problems 
-There are still a few problems with this script that I have not been able to fix because of a lack of time. Firstly, PDFExplorer is pretty slow. Secondly, it does not work so well with articles of a more mathematical nature due to the pdf encoding of mathematical symbols. Etc ... 
+There are still a few problems with this script that I have not been able to fix because of a lack of time. Firstly, PDFExplorer is pretty slow. Secondly, it does not work so well with articles of a more mathematical nature due to the pdf encoding of mathematical symbols. Thirdly, I am not happy with the way I designed main.py, I wanted to create a true command line interface, but, again, time run out and I had other projects to work on. 
 
 
 ## Dependencies 
