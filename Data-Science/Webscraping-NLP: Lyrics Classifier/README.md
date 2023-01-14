@@ -1,3 +1,0 @@
-# Webscraping and Natural Language Processing 
-
-In this project, I used the Beautiful Soup (BS4) library to extract song lyrics from the lyrics.com webpage. I did some natural language processing, created a a bag-of-words matrix and build a natural language classifier modell (using a logistic regression). Relying on the training data (i.e. a specific subset of song lyrics by a few artist) said model was able to reliably predict the author of new, unseen lyrics. 
