@@ -1,6 +1,6 @@
 # Data Visualization 
 
-I created an animated scatter plot of global population trends from 1963 to 2016
+I created an animated scatter plot of global population trends from 1960 to 2015
 
 # Result 
 
