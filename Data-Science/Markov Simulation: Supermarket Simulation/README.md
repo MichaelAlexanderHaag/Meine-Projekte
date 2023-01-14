@@ -1,2 +1,0 @@
-# Markov Simulation: Simulating a Supermarket 
-In this project, I wrote a program that simulates customer behaviour in a supermarket. First, I explored a given dataset which consisted of the different sections (e.g. diary, fruit, checkout) the actual customers visited over time. Extrapolating from this data, I calculated the respective transition probabilites (i.e. the probabilties that a customer will go to frome one section A to another section B) in order to simulate future customer behaviour using Markov Chains. 
